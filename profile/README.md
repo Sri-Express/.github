@@ -1,37 +1,5 @@
 # Sri Express
 
-Sri Express is a comprehensive transportation management platform designed to streamline client bookings, customer service, bus/train operations, and administrative tasks. The system leverages modern web and mobile technologies, AI, and robust backend services to deliver a seamless experience for users and administrators.
-
-## Architecture
-
-![Architecture Diagram](Architecture.png)
-
-### Frontend
-
-- **Landing, LogIn & Registration:** Built with VITE for fast and modern web experiences.
-- **Client App:** Developed using Flutter for cross-platform mobile support.
-- **Customer Service Portal:** Built with Next.js for efficient server-side rendering.
-- **Bus/Train Operations:** Managed via a React Native application.
-- **Route Admin:** Flutter-based interface for route management.
-- **System Admin:** Next.js application for system-wide administration.
-- **Fleet Manager:** Next.js application for fleet management of large transport companies.
-
-### Backend
-
-- **NodeJS:** Handles business logic, API endpoints, and integration with external services.
-- **Weather API:** Provides real-time weather data to enhance route planning for passengers.
-- **AI Module (Python):** Powers intelligent features such as arrival time prediction.
-- **Database (MongoDB):** Stores all operational, user, and analytics data.
-
-## Features
-
-- Multi-role access: Clients, Customer Service, Bus/Train Operators, Route Admins, Fleet Managers, System Admins
-- Real-time booking and scheduling
-- AI-driven analytics and recommendations
-- Secure authentication and user management
-
-## GitHub Organization Statistics
-
 <div align="center">
   
 ![Organization](https://img.shields.io/badge/organization-Sri_Express-blue?style=for-the-badge&logo=github)
@@ -56,6 +24,44 @@ Sri Express is a comprehensive transportation management platform designed to st
 ![Development Status](https://img.shields.io/badge/status-active_development-success?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last_update-2025-informational?style=flat-square)
 </div>
+
+Sri Express is a comprehensive transportation management platform designed to streamline client bookings, customer service, bus/train operations, and administrative tasks. The system leverages modern web and mobile technologies, AI, and robust backend services to deliver a seamless experience for users and administrators.
+
+# Architecture
+
+![Architecture Diagram](Architecture.png)
+
+### Frontend
+
+- **Landing, LogIn & Registration:** Built with VITE for fast and modern web experiences.
+- **Client App:** Developed using Flutter for cross-platform mobile support.
+- **Customer Service Portal:** Built with Next.js for efficient server-side rendering.
+- **Bus/Train Operations:** Managed via a React Native application.
+- **Route Admin:** Flutter-based interface for route management.
+- **System Admin:** Next.js application for system-wide administration.
+- **Fleet Manager:** Next.js application for fleet management of large transport companies.
+
+### Backend
+
+- **NodeJS:** Handles business logic, API endpoints, and integration with external services.
+- **Weather API:** Provides real-time weather data to enhance route planning for passengers.
+- **AI Module (Python):** Powers intelligent features such as arrival time prediction.
+- **Database (MongoDB):** Stores all operational, user, and analytics data.
+
+### Features
+- **Real-time Tracking:** Live location tracking for buses and trains.
+- **Operational Dashboards:** Interfaces for bus/train operators to monitor routes, ETAs, and receive weather updates.
+- **Route Administration:** Tools for managing and dynamically updating routes, schedules, and stops.
+- **Fleet Management:** Comprehensive system for large transport companies to manage vehicles, drivers, maintenance, and performance, with revenue/cost estimation.
+- **System Administration:** Centralized control over user accounts, system analytics, AI module management, and fleet registration approvals.
+- **AI-Powered Insights:** Arrival time prediction and driving pattern analysis.
+- **Weather Integration:** Real-time weather updates for passengers and operations.
+- **Secure Authentication:** Safe login and registration for all users.
+- **Cross-Platform Accessibility:** Client app available on mobile (Flutter), with web portals for various administrative roles (Vite, Next.js, React Native).
+
+### Future Enhancements
+- **Booking & Management:** Seamless ticket booking, management, and trip notifications for clients.
+- **Customer Support:** Dedicated portal for handling inquiries, complaints, and feedback, supplemented by an AI-powered chatbot.
 
 ## Logo
 
