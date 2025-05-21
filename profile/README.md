@@ -30,6 +30,33 @@ Sri Express is a comprehensive transportation management platform designed to st
 - AI-driven analytics and recommendations
 - Secure authentication and user management
 
+## GitHub Organization Statistics
+
+<div align="center">
+  
+![Organization](https://img.shields.io/badge/organization-Sri_Express-blue?style=for-the-badge&logo=github)
+![Private Repositories](https://img.shields.io/badge/repositories-private-red?style=for-the-badge&logo=github)
+
+### Project Status
+![Release](https://img.shields.io/badge/release-v0.1.alpha-blue?style=flat-square)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-proprietary-lightgrey?style=flat-square)
+  
+### Technology Stack
+  
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  
+### Development Activity
+![Active Developers](https://img.shields.io/badge/active_developers-4+-orange?style=flat-square)
+![Development Status](https://img.shields.io/badge/status-active_development-success?style=flat-square)
+![Last Update](https://img.shields.io/badge/last_update-2025-informational?style=flat-square)
+</div>
+
 ## Logo
 
 ![Sri Express Logo](Logo.jpeg)
@@ -67,7 +94,7 @@ Flutter-based interface for route management.
 - The bus/train operations to be viewed and confirmed 15 minutes before the start of the journey.
 
 ### Fleet Manager
-Next.js application for fleet management of large transport companies.
+Flutter application for fleet management of large transport companies.
 - The fleet manager application allows large transport companies to add and manage their fleet of buses/trains, including maintenance schedules, driver assignments, and performance metrics pending System Admin approval.
 - Fleet managers can view real-time data on vehicle locations, driving patterns, and other metrics to optimize operations.
 - Revenue and cost estimates for the fleet can be generated based on the data collected from the vehicles, with the planned ticketing system.
