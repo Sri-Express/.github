@@ -43,10 +43,12 @@ Built with VITE for fast and modern web experiences.
 
 ### Client App
 Developed using Flutter for cross-platform mobile support.
-- The client application will show estimated arrival times and provide real-time updates on bus/train schedules.
+- The client app will provide a map interface to show the location of the next bus/train in real-time, along with estimated arrival times and provide real-time updates on bus/train schedules.
 - Users can book tickets, manage their bookings, and receive notifications about their trips.
 - Raise complaints and provide feedback on their experiences.
+- Whether API integration to provide real-time weather updates for the user's location and destination.
 - Automated chatbot with automatically generated responses to common queries and escalation to customer service when needed.
+
 
 ### Customer Service Portal
 Built with Next.js for efficient server-side rendering.
@@ -56,6 +58,7 @@ Built with Next.js for efficient server-side rendering.
 Managed via a React Native application.
 - A fixed device on buses and trains will be used to track the location of the vehicle in real-time, along with other metrics such as driving patterns for AI analysis.
 - A map interface will show the map of the bus or train with the current location of the vehicle and the estimated time of arrival at the next stop.
+- Whether API integration to provide real-time weather updates for the vehicle's route.
 
 ### Route Admin
 Flutter-based interface for route management.
