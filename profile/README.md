@@ -23,6 +23,14 @@
 ![Active Developers](https://img.shields.io/badge/active_developers-4+-orange?style=flat-square)
 ![Development Status](https://img.shields.io/badge/status-active_development-success?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last_update-2025-informational?style=flat-square)
+
+## 🌐 **LIVE DEMO**
+### **[🚀 Experience Sri Express Live → sr-express.mehara.io](https://sr-express.mehara.io)**
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-sr--express.mehara.io-success?style=for-the-badge&logo=safari&logoColor=white)](https://sr-express.mehara.io)
+[![Platform Status](https://img.shields.io/badge/Platform-🟢_ONLINE-brightgreen?style=for-the-badge)](https://sr-express.mehara.io)
+[![Real-time GPS](https://img.shields.io/badge/GPS_Tracking-🚗_LIVE-blue?style=for-the-badge)](https://sr-express.mehara.io)
+
 </div>
 
 Sri Express is a comprehensive transportation management platform designed to streamline client bookings, customer service, bus/train operations, and administrative tasks. The system leverages modern web and mobile technologies, AI, and robust backend services to deliver a seamless experience for users and administrators.
