@@ -27,9 +27,7 @@
 # 🌟 **LIVE DEMO - TRY IT NOW!** 🌟
 
 <div align="center">
-
-## 🚀 **[Experience Sri Express Live](https://sri-express.mehara.io)** 🚀
-
+  
 # **[sri-express.mehara.io](https://sri-express.mehara.io)**
 
 [![🌐 LIVE DEMO](https://img.shields.io/badge/🌐_LIVE_DEMO-sri--express.mehara.io-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](https://sri-express.mehara.io)
