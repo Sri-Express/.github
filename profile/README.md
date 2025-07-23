@@ -24,12 +24,23 @@
 ![Development Status](https://img.shields.io/badge/status-active_development-success?style=flat-square)
 ![Last Update](https://img.shields.io/badge/last_update-2025-informational?style=flat-square)
 
-## 🌐 **LIVE DEMO**
-### **[🚀 Experience Sri Express Live → sr-express.mehara.io](https://sr-express.mehara.io)**
+# 🌟 **LIVE DEMO - TRY IT NOW!** 🌟
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-sr--express.mehara.io-success?style=for-the-badge&logo=safari&logoColor=white)](https://sr-express.mehara.io)
-[![Platform Status](https://img.shields.io/badge/Platform-🟢_ONLINE-brightgreen?style=for-the-badge)](https://sr-express.mehara.io)
-[![Real-time GPS](https://img.shields.io/badge/GPS_Tracking-🚗_LIVE-blue?style=for-the-badge)](https://sr-express.mehara.io)
+<div align="center">
+
+## 🚀 **[Experience Sri Express Live](https://sri-express.mehara.io)** 🚀
+
+# **[sri-express.mehara.io](https://sri-express.mehara.io)**
+
+[![🌐 LIVE DEMO](https://img.shields.io/badge/🌐_LIVE_DEMO-sri--express.mehara.io-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](https://sri-express.mehara.io)
+
+[![Platform Status](https://img.shields.io/badge/🟢_PLATFORM-ONLINE_&_RUNNING-brightgreen?style=for-the-badge&logo=checkmark&logoColor=white)](https://sri-express.mehara.io)
+[![GPS Tracking](https://img.shields.io/badge/🚗_GPS_TRACKING-LIVE_VEHICLES-0066FF?style=for-the-badge&logo=location&logoColor=white)](https://sri-express.mehara.io)
+[![AI Chatbot](https://img.shields.io/badge/🤖_AI_CHATBOT-ACTIVE-9C27B0?style=for-the-badge&logo=robot&logoColor=white)](https://sri-express.mehara.io)
+
+### ⚡ **Real-time GPS • AI Chatbot • Weather Integration • Live Bookings** ⚡
+
+---</div>
 
 </div>
 
